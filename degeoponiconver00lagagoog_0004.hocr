@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./degeoponiconver00lagagoog_0004.png"; bbox 0 0 4600 5942; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 980 1186 4506 5872">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 980 1186 4506 5872">
+     <span class='ocr_line' id='line_1_1' title="bbox 980 1186 4506 5872; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 980 1186 4506 5872; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3225 5830 3894 5877">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3225 5830 3894 5877">
+     <span class='ocr_line' id='line_1_2' title="bbox 3225 5830 3894 5877; baseline 0 -34"><span class='ocrx_word' id='word_1_2' title='bbox 3225 5843 3240 5857; x_wconf 65' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_3' title='bbox 3444 5841 3532 5877; x_wconf 49' lang='grc' dir='ltr'><em>Ι</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 3609 5848 3629 5873; x_wconf 39' lang='grc' dir='ltr'><strong>Α</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 3739 5830 3755 5843; x_wconf 79' lang='grc'><strong>.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 3868 5831 3894 5843; x_wconf 73' lang='grc'><strong>-</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
